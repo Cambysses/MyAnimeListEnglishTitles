@@ -7,10 +7,8 @@
 // @run-at document-end
 // ==/UserScript==
 
-// Gets list of URLs for all animes on page.
-const animes = document.getElementsByClassName("detail");
-
 // Runs query for every title and appends English name if it exists.
+const animes = document.getElementsByClassName("detail");
 for(i = 0; i < animes.length; i++)
 {
     var animeDetail = animes[i].getElementsByClassName("di-ib clearfix");
