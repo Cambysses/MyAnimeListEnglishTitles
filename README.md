@@ -1,2 +1,2 @@
 # MyAnimeList English Titles
-Adds English title (if it exsts) the "Top Anime" page on MyAnimeList. Currently does not work for any other pages such as "Top Manga".
+Adds English title (if it exsts) the "Top Anime" and "Top Manga" pages on MyAnimeList.
